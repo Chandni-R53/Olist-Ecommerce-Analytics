@@ -2,8 +2,6 @@
 
 An end-to-end Power BI project analysing **~100K orders** from Olist, a Brazilian e-commerce marketplace (2016-2018). It covers data cleaning, data modelling, DAX measures, customer cohort analysis and a 3-page interactive dashboard report on sales, customers and delivery performance.
 
-![Business Performance](screenshots/01_business_performance.png)
-
 ---
 
 ## Dataset
